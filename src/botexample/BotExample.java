@@ -5,10 +5,10 @@
 
 package botexample;
 
-import botarena.Command;
-import botarena.Debug;
-import botarena.Direction;
-import botarena.Packet;
+import botarena.util.Command;
+import botarena.util.Debug;
+import botarena.util.Direction;
+import botarena.util.Packet;
 import java.io.ObjectInputStream;
 import java.io.ObjectOutputStream;
 import java.net.Socket;
